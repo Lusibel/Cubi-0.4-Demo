@@ -5,8 +5,6 @@ const bosses =[
     esJefe: true,
     nombre: "El Gran Jefe",
     
-    x: 1100,
-    y: 1800,
     
     music: "boss1.mp3",
 victoryMusic: "victory.mp3",
