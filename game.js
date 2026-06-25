@@ -325,7 +325,7 @@ function attackWithSword() {
 
         if (!canDamageBoss(boss)) return;
 
-        boss.hp -= 1000;
+        boss.hp -= 100;
 
         playBossHit();
 
